@@ -1,7 +1,7 @@
 ######################################################################
-# Author: Thy H. Nguyen      TODO: Change this to your name
-# Username: nguyent2         TODO: Change this to your username
-#
+# Author: Thy H. Nguyen     
+# Username: nguyent2        
+
 # Assignment: A01
 #
 # Purpose: A program that returns your Chinese Zodiac animal given a
